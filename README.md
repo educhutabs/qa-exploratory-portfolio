@@ -4,7 +4,7 @@ Este repositório é o registro da minha jornada de 90 dias rumo ao **Estágio e
 
 ---
 
-## 🚀 Case Study 01: Exploratory Testing - Amazon.com.br
+## Case Study 01: Exploratory Testing - Amazon.com.br
 
 **Objetivo:** Validar a integridade da interface e a experiência do usuário (UX) em fluxos críticos de e-commerce.
 

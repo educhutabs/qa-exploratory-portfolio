@@ -8,7 +8,7 @@ Este repositório é o registro da minha jornada de 90 dias rumo ao **Estágio e
 
 **Objetivo:** Validar a integridade da interface e a experiência do usuário (UX) em fluxos críticos de e-commerce.
 
-### 📋 Test Scope (Escopo do Teste)
+### Test Scope (Escopo do Teste)
 * **Ambiente:** Production (Web)
 * **Foco:** Carrinho de Compras e Detalhes do Produto.
 * **Técnica:** Session-based Exploratory Testing.

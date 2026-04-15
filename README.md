@@ -1,6 +1,4 @@
-Este repositório é o registro da minha jornada de 90 dias rumo ao **Estágio em QA**. Aqui documento meu progresso técnico, análise de riscos e execução de testes em cenários reais.
-
-> "A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente." — John Ruskin.
+Este repositório registra meu plano de capacitação de 90 dias, focado no amadurecimento técnico e analítico necessário para o ingresso como Estagiário de QA.
 
 ---
 

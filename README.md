@@ -32,18 +32,18 @@ Este repositório registra meu plano de capacitação de 90 dias, focado no amad
 
 ---
 
-## Skills & Tools
-- **Test Design:** Heurísticas de Teste, Teste de Fronteira.
-- **Tools:** GitHub, Browser DevTools, Markdown.
-- **Soft Skills:** Comunicação Técnica e Escrita Assertiva.
-
----
-
 ## Quality Management & Tooling
 
 A gestão do ciclo de vida deste projeto e o rastreio de falhas são realizados através de metodologias ágeis. Para detalhes sobre a configuração do board Kanban, fluxo de estados e estruturação de *Work Items*, acesse:
 
 **[Documentação de Ferramental e Processos](./TOOLING.md)**
+
+---
+
+## Skills & Tools
+- **Test Design:** Heurísticas de Teste, Teste de Fronteira.
+- **Tools:** GitHub, Browser DevTools, Markdown.
+- **Soft Skills:** Comunicação Técnica e Escrita Assertiva.
 
 ---
 

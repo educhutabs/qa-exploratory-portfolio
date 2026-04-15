@@ -39,4 +39,12 @@ Este repositório registra meu plano de capacitação de 90 dias, focado no amad
 
 ---
 
+## Quality Management & Tooling
+
+A gestão do ciclo de vida deste projeto e o rastreio de falhas são realizados através de metodologias ágeis. Para detalhes sobre a configuração do board Kanban, fluxo de estados e estruturação de *Work Items*, acesse:
+
+**[Documentação de Ferramental e Processos](./TOOLING.md)**
+
+---
+
 **Contato:** [Eduardo Chuta](https://www.linkedin.com/in/educhutabs/)
